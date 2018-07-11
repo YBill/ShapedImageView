@@ -149,7 +149,7 @@ public class ShapedImageView extends android.support.v7.widget.AppCompatImageVie
             float indent = mBorderWidth / 2; // 缩进线的一半，要不线会绘制一半
             RectF targetRect = new RectF(0, 0, width, height);
             targetRect.inset(indent, indent);
-            canvas.drawRoundRect(targetRect, mCornerRadius[0], mCornerRadius[0], strokePaint);
+            canvas.drawRoundRect(targetRect, mCornerRadius[0] - indent, mCornerRadius[0] - indent, strokePaint);
         }
 
         canvas = null;
