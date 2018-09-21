@@ -1,5 +1,5 @@
 # ShapedImageView
-圆形圆角描边
+图片圆形圆角描边
 
 
 ## eg:
