@@ -1,4 +1,4 @@
-package com.example.bill.shapedimageview;
+package com.bill.shapeimageview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
