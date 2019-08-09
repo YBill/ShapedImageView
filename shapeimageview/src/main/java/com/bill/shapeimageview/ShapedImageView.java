@@ -1,4 +1,4 @@
-package com.bill.commonwidget;
+package com.bill.shapeimageview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -217,5 +217,6 @@ public class ShapedImageView extends android.support.v7.widget.AppCompatImageVie
         super.onDetachedFromWindow();
         releaseBitmap(mShapeBitmap);
     }
+
 
 }
