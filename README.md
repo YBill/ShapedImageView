@@ -19,7 +19,7 @@ ShapedImageView 的使用方法：
 
 ##### 下面是 ShapedImageView 的属性
 
-**shape_mode **
+**shape_mode**
 
 设置图片的显示模式，有三个值：
 
