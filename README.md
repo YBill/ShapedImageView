@@ -1,5 +1,4 @@
-#### ShapedImageView
-图片圆形圆角描边
+## ShapedImageView 图片圆形圆角描边
 
 ShapedImageView 的使用方法：
 
